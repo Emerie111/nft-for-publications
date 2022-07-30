@@ -13,3 +13,5 @@ Research scientist often face some issues for publishing:
  The dapp is in developement stage and I will keep working to improve and add better features.
  This is something I am passionate about since I am a pharmacist myself and face similar issues. 
  Many thanks to Bunzz (bunzz.dev) which allowed me to build this without much code. As I gain further understanding of the Bunzz system, I will add further features. 
+ 
+ The frontend can be viewed from here: https://vercel.com/emerie111/nft-for-publications
